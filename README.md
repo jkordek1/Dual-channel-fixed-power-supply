@@ -6,6 +6,7 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/TVZ_KTM_ApplicationBoard)](https://github.com/jkordek1/TVZ_KTM_ApplicationBoard/pulls)
 
 Enclosure for dual AMES15-277NZ AC-DC converter.
+
 Specifications:
 - Universal Input: 85 - 305VAC/100 - 430VDC
 - Operating Temp: -30 °C to +70 °C
