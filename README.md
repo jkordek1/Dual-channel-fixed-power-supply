@@ -7,7 +7,7 @@
 
 Enclosure for dual AMES15-277NZ AC-DC converter.
 
-Specifications:
+AMES15-277NZ specifications:
 - Universal Input: 85 - 305VAC/100 - 430VDC
 - Operating Temp: -30 °C to +70 °C
 - High isolation voltage: Up to 4000VAC
@@ -23,7 +23,7 @@ Specifications:
 </p>
 
  ## Features
- - Fuse box
+ - Fuse box (use 0.25A 20x5mm fast fuse)
  - Rubber feet
  - Compact size
  - 16W output per channel
