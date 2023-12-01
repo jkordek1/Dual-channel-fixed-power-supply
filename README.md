@@ -7,12 +7,12 @@
 
 Enclosure for dual AMES15-277NZ AC-DC converter.
 Specifications:
-• Universal Input: 85 - 305VAC/100 - 430VDC
-• Operating Temp: -30 °C to +70 °C
-• High isolation voltage: Up to 4000VAC
-• Low ripple & noise, 150mV(p-p) typ.
-• Output short circuit, over-current, over-voltage protection
-• Regulated Output 
+- Universal Input: 85 - 305VAC/100 - 430VDC
+- Operating Temp: -30 °C to +70 °C
+- High isolation voltage: Up to 4000VAC
+- Low ripple & noise, 150mV(p-p) typ.
+- Output short circuit, over-current, over-voltage protection
+- Regulated Output 
 
 ## Images
 <p align="center">
