@@ -5,8 +5,14 @@
 [![GitHub Issues](https://img.shields.io/github/issues/jkordek1/TVZ_KTM_ApplicationBoard)](https://github.com/jkordek1/TVZ_KTM_ApplicationBoard/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/TVZ_KTM_ApplicationBoard)](https://github.com/jkordek1/TVZ_KTM_ApplicationBoard/pulls)
 
-Expansion board for two Nucleo 64 boards (master and slave), developed in 2022 for students studying at Zagreb university of applied sciences.
-It enables quick and easy firmware development without the need of connecting different modules via breadboard and jumpers.
+Enclosure for dual AMES15-277NZ AC-DC converter.
+Specifications:
+• Universal Input: 85 - 305VAC/100 - 430VDC
+• Operating Temp: -30 °C to +70 °C
+• High isolation voltage: Up to 4000VAC
+• Low ripple & noise, 150mV(p-p) typ.
+• Output short circuit, over-current, over-voltage protection
+• Regulated Output 
 
 ## Images
 <p align="center">
