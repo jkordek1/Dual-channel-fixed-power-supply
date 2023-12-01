@@ -1,4 +1,4 @@
-# TVZ_KTM_ApplicationBoard
+# Dual channel fixed power supply
  
 [![Version](https://img.shields.io/github/v/release/jkordek1/TVZ_KTM_ApplicationBoard)](https://github.com/jkordek1/TVZ_KTM_ApplicationBoard/releases/tag/Initial)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
