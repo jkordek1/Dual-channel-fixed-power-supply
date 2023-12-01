@@ -27,7 +27,7 @@ AMES15-277NZ specifications:
  - EU type power plug
  - Rubber feet
  - Compact size
- - 16W output per channel
+ - 16W output power per channel
 
 ## BOM
 
@@ -38,10 +38,6 @@ AMES15-277NZ specifications:
     ├── ...
     ├── 3d models               # 3D models of components
     ├── Images                  # Images of the project
-    ├── KiCAD files             # Main KiCAD project folder
-    │   ├── Datasheet           # Datasheet collection
-    │   ├── jlcpcb              # jlcpcb production files
-    │   ├── Graphics            # Custom graphics for PCB
-    │   └── gerber              # gerber output folder
+    ├── Documentation           # Datasheet
     └── ...
  
