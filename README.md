@@ -31,6 +31,11 @@ AMES15-277NZ specifications:
 
 ## BOM
 
+## Print settings
+- 0.2mm layer height
+- PLA or PETG
+- no supports needed
+
 
  
  ## Folder structure
