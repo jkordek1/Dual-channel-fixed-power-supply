@@ -13,7 +13,7 @@ AMES15-277NZ specifications:
 - High isolation voltage: Up to 4000VAC
 - Low ripple & noise, 150mV(p-p) typ.
 - Output short circuit, over-current, over-voltage protection
-- Regulated Output 
+- Regulated Output (10.2 - 13.8V)
 
 ## Images
 <p align="center">
