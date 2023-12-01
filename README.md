@@ -22,16 +22,15 @@ Specifications:
  <img width="1000" src="https://raw.githubusercontent.com/jkordek1/Dual-channel-fixed-power-supply/main/Images/Back_v4.png">
 </p>
 
-## Work in progress
-This project is marked as work in progress and is not ready yet for a full release.
-
  ## Features
- - Toggle switches
- - LEDs
- - MCP2551 high-speed CAN transceiver
- - Digital I2C temperature sensor with address selection jumpers
- - UART, CAN, Parallel, analog, SPI and I2C communications between master and slave
- - Probe clips for easy oscilloscope connections
+ - Fuse box
+ - Rubber feet
+ - Compact size
+ - 16W output per channel
+
+## BOM
+
+
  
  ## Folder structure
     .
