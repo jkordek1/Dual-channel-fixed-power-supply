@@ -24,6 +24,7 @@ AMES15-277NZ specifications:
 
  ## Features
  - Fuse box (use 0.25A 20x5mm fast fuse)
+ - EU type power plug
  - Rubber feet
  - Compact size
  - 16W output per channel
