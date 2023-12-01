@@ -18,6 +18,7 @@ Specifications:
 ## Images
 <p align="center">
  <img width="1000" src="https://raw.githubusercontent.com/jkordek1/Dual-channel-fixed-power-supply/main/Images/Front_v4.png">
+ <img width="1000" src="https://raw.githubusercontent.com/jkordek1/Dual-channel-fixed-power-supply/main/Images/Back_v4.png">
 </p>
 
 ## Work in progress
