@@ -32,7 +32,7 @@ AMES15-277NZ specifications:
 ## Schematic
 
 <p align="center">
- <img width="1000" src="https://raw.githubusercontent.com/jkordek1/Dual-channel-fixed-power-supply/main/Images/Schematic.PNG">
+ <img width="1000" src="https://raw.githubusercontent.com/jkordek1/Dual-channel-fixed-power-supply/main/Images/Schematic.png">
 </p>
 
 ## BOM
