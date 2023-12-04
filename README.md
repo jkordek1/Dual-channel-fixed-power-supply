@@ -15,6 +15,13 @@ AMES15-277NZ specifications:
 - Output short circuit, over-current, over-voltage protection
 - Regulated Output (10.2 - 13.8V)
 
+ ## Features
+ - Fuse box (use 0.25A 20x5mm fast fuse)
+ - EU type power plug
+ - Rubber feet
+ - Compact size
+ - 16W output power per channel
+
 ## Images
 <p align="center">
  <img width="1000" src="https://raw.githubusercontent.com/jkordek1/Dual-channel-fixed-power-supply/main/Images/Only_front_v1.png">
@@ -22,12 +29,11 @@ AMES15-277NZ specifications:
  <img width="1000" src="https://raw.githubusercontent.com/jkordek1/Dual-channel-fixed-power-supply/main/Images/Back_v4.png">
 </p>
 
- ## Features
- - Fuse box (use 0.25A 20x5mm fast fuse)
- - EU type power plug
- - Rubber feet
- - Compact size
- - 16W output power per channel
+## Schematic
+
+<p align="center">
+ <img width="1000" src="https://raw.githubusercontent.com/jkordek1/Dual-channel-fixed-power-supply/main/Images/Schematic.PNG">
+</p>
 
 ## BOM
 
