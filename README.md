@@ -52,6 +52,9 @@ AMES15-277NZ specifications:
 - PLA or PETG
 - no supports needed
 
+## Other
+- Use 0.25mm2 wires for connections
+
 
  
  ## Folder structure
