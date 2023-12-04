@@ -46,6 +46,9 @@ AMES15-277NZ specifications:
 | 6  | 12 | BM 00108  | [TME](https://www.tme.eu/hr/details/bm00108/konektori-izolirani/bm-group/bm-00108/) |
 | 7  | 6 | 2-520182-2  | [TME](https://www.tme.eu/hr/details/2-520182-2/konektori-izolirani/te-connectivity/) |
 | 8  | 2 | AMES15-12S277NZ-P  | [TME](https://www.tme.eu/hr/details/ames15-12s277nz-p/napajaci-za-ugradnju/aimtec/) |
+| 9  | 6 | 4mm inserts for M3 screw  | - |
+| 10  | 4 | Rubber feet  | - |
+| 11  | 10 | M3 screws  | - |
 
 ## Print settings
 - 0.2mm layer height
