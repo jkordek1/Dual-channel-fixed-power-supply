@@ -50,5 +50,6 @@ AMES15-277NZ specifications:
     ├── 3d models               # 3D models of components
     ├── Images                  # Images of the project
     ├── Documentation           # Datasheet
+    ├── Schematic               # KiCAD Schematic
     └── ...
  
